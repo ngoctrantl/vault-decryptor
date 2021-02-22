@@ -26,7 +26,7 @@
   "dependencies": {
     "browser-passworder": "^2.0.3",
     "ethereumjs-util": "^5.1.2",
-    "react": "^15.0.2",
+    "react": "^17.0.1",
     "react-dom": "^15.0.2",
     "react-hyperscript": "^2.4.0",
     "react-redux": "^4.4.5",
